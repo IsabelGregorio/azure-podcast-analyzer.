@@ -1,0 +1,21 @@
+# Reconhecimento de fala
+openai-whisper==20231117
+SpeechRecognition==3.10.4
+
+# Manipulação de áudio
+pydub==0.25.1
+ffmpeg-python==0.2.0
+
+# Interface web
+streamlit==1.39.0
+Flask==3.0.3
+
+# Processamento e utilidades
+numpy==1.26.4
+pandas==2.2.2
+
+# Exportação de arquivos
+python-docx==1.1.2
+
+# Dependência opcional para legendas
+srt==3.5.3
