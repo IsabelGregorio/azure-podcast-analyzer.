@@ -9,3 +9,5 @@ resposta=modelo.transcribe("andreia-chociai.mp3")
 
 print(resposta)
 
+
+
